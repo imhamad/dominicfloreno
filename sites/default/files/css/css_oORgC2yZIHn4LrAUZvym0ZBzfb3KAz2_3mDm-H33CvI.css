@@ -1,0 +1,6 @@
+.votingapi-widgets.fivestar a{border:none !important;}.votingapi-widgets.fivestar a.disabled{opacity:0.5;}
+.js-flag-message{display:inline;margin-left:1.2em;animation:flag-flash 3s ease-in-out 1;}@keyframes flag-flash{0%{opacity:0;}50%{opacity:1;}100%{opacity:0;}}
+.flag a{border:none;}.flag a:hover{border:none;}
+.block-facets ul ul li{margin-left:10px;}
+.bef-exposed-form .form--inline .form-item{float:none;}.bef-exposed-form .form--inline > .form-item{float:left;}.bef-exposed-form .form--inline .bef--secondary{clear:left;}
+.toolbar-horizontal .toolbar-tray .menu-item + .menu-item,.toolbar .toolbar-tray-horizontal .menu-item:last-child{border-left:none;border-right:none;}.toolbar-horizontal .toolbar-tray{border-bottom-color:#000;box-shadow:none;}

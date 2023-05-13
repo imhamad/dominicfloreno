@@ -1,0 +1,108 @@
+CHANGELOG
+=========
+
+8.1.0 03-12-2019
+-----
+
+ * Initial Release
+
+8.1.1 05-04-2020
+-----
+
+ * Move custom date format declaration in node--blog.html.twig template into Drupal admin configuration to ease translations. 
+ * Addition of theme settings to set product image display options (Zoom, Colorbox, Disable)
+ * Addition of theme settings Header Style 6
+ * Addition of theme settings Color Scheme 10
+ * Addition of Personal Home Page 02
+ 
+1.1 14-10-2020
+-----
+
+ * Update Drupal core to version 8.9.7 and contributed modules
+ * Drop field--commerce-product-variation--field-image.html.twig template overide
+ * Drop field--field-image.html.twig template overide
+ * Fix closing product quick view
+
+1.1 28-11-2020
+-----
+
+ * Update Drupal core to version 8.9.10 and contributed modules
+ * Addition of Drupal 9 core ugrade of version 9.0.9
+ * Update of HSBlock Configuration to version 2.0
+	- Drop dependencies on Jquery Colorpicker module (NOTE: You should uninstall the Jquery Colorpicker module after updating. If the block background color does not automatically apply after updating, you should edit block and choose already selected background color and save)
+	- Fix non formatted ajax block configuration page
+ * Fix typographical error in Portfolio views custom footer "Load More" link
+ 
+ 1.1 01-02-2021
+-----
+
+ * Update Drupal core to version 8.9.13 and 9.1.3 with contributed modules
+ 
+  1.1 29-05-2021
+-----
+
+ * Update Drupal core to version 8.9.16 and 9.1.9 with contributed modules
+ 
+  1.1 20-06-2021
+-----
+
+ * Update Drupal 9 core to version 9.2.0 with contributed modules
+
+  1.1 12-11-2021
+-----
+
+ * Update Drupal 9 core to version 9.2.8 with contributed modules
+ * Update Drupal 8 core to version 8.9.19 with contributed modules
+ * Update Admin Toolbar to 3.0.3
+ * Update Better Exposed Filters to 8.x-5.0
+ * Update Color Field to 8.x-2.5
+ * Update Commerce to 8.x-2.28
+ * Update Commerce Shipping to 8.x-2.2
+ * Update Commerce Stock to 8.x-1.0-beta1
+ * Update Contact Block to 8.x-1.6
+ * Update Profile to 8.x-1.3
+ * Update Search API to 8.x-1.21
+ * Update State Machine to 8.x-1.5
+ * Update Votingapi Widgets to latest dev version
+
+  1.1 25-01-2022
+-----
+
+ * Update Drupal 9 core to version 9.3.3 with contributed modules
+ * Update Drupal 8 core to version 8.9.20 with contributed modules
+
+  1.1 22-07-2022
+-----
+
+ * Update Drupal 9 core to version 9.4.3 with contributed modules
+ * Update Drupal 8 core to version 8.9.20 with contributed modules
+ * Update Admin Toolbar to 3.1.0
+ * Update Better Exposed Filters to 8.x-5.2
+ * Update Chaos Tool Suite (ctools) to 4.0.0
+ * Update Colorbox to 8.x-1.10
+ * Update Commerce Core to 8.x-2.30
+ * Update Commerce Shipping to 8.x-2.4
+ * Update Commerce Stock to 8.x-1.0
+ * Update Entity API to 8.x-1.3
+ * Update Entity Reference Facet Link to 2.0.1
+ * Update Facets to 2.0.5
+ * Update Inline Entity Form to 8.x-1.0-rc12
+ * Update Language Switcher Dropdown to 8.x-2.0
+ * Update Pathauto to 8.x-1.10
+ * Update Profile to 8.x-1.4
+ * Update Search API to 8.x-1.25
+ * Update State Machine to 8.x-1.6
+ * Update Votingapi Widgets to latest dev version
+ 
+  1.1 24-08-2022
+-----
+
+ * Update Drupal 9 core to version 9.4.5 with contributed modules
+ * Update Address to 8.x-1.11
+ * Update Admin Toolbar to 3.1.1
+ * Update Commerce Core to 8.x-2.31
+ * Update Entity Reference Revisions to 8.x-1.10
+ * Update jQuery UI Datepicker to 8.x-1.3
+ * Update Pathauto to 8.x-1.11
+ * Update Token to 8.x-1.11
+ * Downgrade Chaos Tool Suite (ctools) to 8.x-3.11
